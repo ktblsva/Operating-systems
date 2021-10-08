@@ -1,0 +1,10 @@
+clear
+ls
+cd
+touch
+pwd
+who
+help
+exit
+rm
+ifconfig
