@@ -1,0 +1,71 @@
+[2021-12-18 16:4:2] C:\Windows\System32\calc.exe
+[2021-12-18 16:4:2] Delay for update is 2
+[2021-12-18 16:4:2] Exit from readconfigfile!
+[2021-12-18 16:4:2] Trying to open C:\Windows\System32\calc.exe
+[2021-12-18 16:4:2] Delay for update is 2
+[2021-12-18 16:4:2] There is no exported data.
+[2021-12-18 16:6:2] C:\Windows\System32\calc.exe
+[2021-12-18 16:6:2] Delay for update is 2
+[2021-12-18 16:6:2] Exit from readconfigfile!
+[2021-12-18 16:6:2] Trying to open C:\Windows\System32\calc.exe
+[2021-12-18 16:6:2] Delay for update is 2
+[2021-12-18 16:6:2] There is no exported data.
+[2021-12-18 16:8:2] C:\Windows\System32\calc.exe
+[2021-12-18 16:8:2] Delay for update is 2
+[2021-12-18 16:8:2] Exit from readconfigfile!
+[2021-12-18 16:8:2] Trying to open C:\Windows\System32\calc.exe
+[2021-12-18 16:8:2] Delay for update is 2
+[2021-12-18 16:8:2] There is no exported data.
+[2021-12-18 16:8:40] C:\Windows\System32\calc.exe
+[2021-12-18 16:8:40] Delay for update is 2
+[2021-12-18 16:8:40] Exit from readconfigfile!
+[2021-12-18 16:8:40] Trying to open C:\Windows\System32\calc.exe
+[2021-12-18 16:8:40] Delay for update is 2
+[2021-12-18 16:8:40] There is no exported data.
+[2021-12-19 9:49:7] C:\Windows\System32\kernel32.dll
+[2021-12-19 9:49:7] Delay for update is 15
+[2021-12-19 9:49:7] Exit from readconfigfile!
+[2021-12-19 9:53:31] C:\Windows\System32\kernel32.dll
+[2021-12-19 9:53:31] Delay for update is 15
+[2021-12-19 9:53:31] Exit from readconfigfile!
+[2021-12-19 9:56:13] C:\Windows\System32\kernel32.dll
+[2021-12-19 9:56:13] Delay for update is 15
+[2021-12-19 9:56:13] Exit from readconfigfile!
+[2021-12-19 9:56:13] Trying to open C:\Windows\System32\kernel32.dll
+[2021-12-19 9:56:13] Delay for update is 15
+[2021-12-19 9:59:11] C:\Windows\System32\kernel32.dll
+[2021-12-19 9:59:11] Delay for update is 15
+[2021-12-19 9:59:11] Exit from readconfigfile!
+[2021-12-19 10:0:30] C:\Windows\System32\notepad.exe
+[2021-12-19 10:0:30] Delay for update is 15
+[2021-12-19 10:0:30] Exit from readconfigfile!
+[2021-12-19 10:0:30] Trying to open C:\Windows\System32\notepad.exe
+[2021-12-19 10:0:30] Delay for update is 15
+[2021-12-19 10:0:30] There is no exported data.
+[2021-12-19 10:3:59] wow
+[2021-12-19 10:3:59] Error: wrong configuration file! Set default value.
+[2021-12-19 10:3:59] Delay for update is 0
+[2021-12-19 10:3:59] Exit from readconfigfile!
+[2021-12-19 10:6:10] wow
+[2021-12-19 10:6:10] Error: wrong configuration file! Set default value.
+[2021-12-19 10:6:10] Delay for update is 0
+[2021-12-19 10:6:10] Exit from readconfigfile!
+[2021-12-19 10:6:10] Trying to open wow
+[2021-12-19 10:6:10] Delay for update is 0
+[2021-12-19 10:6:10] Couldn't open file!
+[2021-12-19 10:6:10] Could not create mapping file.
+[2021-12-19 10:6:10] Could not map file.
+[2021-12-19 10:7:4] C:\Windows\System32\kernel32.dll
+[2021-12-19 10:7:4] Delay for update is 15
+[2021-12-19 10:7:4] Exit from readconfigfile!
+[2021-12-19 10:8:35] C:\Windows\System32\kernel32.dll
+[2021-12-19 10:8:35] Delay for update is 15
+[2021-12-19 10:8:35] Exit from readconfigfile!
+[2021-12-19 10:12:38] C:\Windows\System32\kernel32.dll
+
+[2021-12-19 10:12:38] C:\Windows\System32\kernel32.dll
+[2021-12-19 10:12:38] Delay for update is 15
+[2021-12-19 10:12:38] Exit from readconfigfile!
+[2021-12-19 10:14:50] C:\Windows\System32\kernel32.dll
+[2021-12-19 10:14:50] Delay for update is 15
+[2021-12-19 10:14:50] Exit from readconfigfile!

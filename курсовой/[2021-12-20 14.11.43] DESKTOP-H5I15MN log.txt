@@ -1,0 +1,393 @@
+[2021-12-20 13:2:15] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:2:15] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:2:15] C:\Windows\System32\kernel32.dll
+[2021-12-20 13:2:15] Delay for update is 15
+[2021-12-20 13:2:15] Exit from readconfigfile!
+[2021-12-20 13:2:15] After exit from readconfigfile!
+[2021-12-20 13:2:15] Trying to open C:\Windows\System32\kernel32.dll
+[2021-12-20 13:2:15] Delay for update is 15
+[2021-12-20 13:2:16] Sending data...
+[2021-12-20 13:2:16] File: transfer D:\data.txt successful!
+[2021-12-20 13:2:16] Sending data...
+[2021-12-20 13:2:16] File: transfer D:\log.log successful!
+[2021-12-20 13:6:25] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:6:25] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:6:25] C:\Windows\System32\kernel32.dll
+[2021-12-20 13:6:25] Delay for update is 15
+[2021-12-20 13:6:25] Trying to open C:\Windows\System32\kernel32.dll
+[2021-12-20 13:6:25] Delay for update is 15
+[2021-12-20 13:6:25] Sending data...
+[2021-12-20 13:6:25] File: transfer D:\data.txt successful!
+[2021-12-20 13:6:26] Sending data...
+[2021-12-20 13:6:26] File: transfer D:\log.log successful!
+[2021-12-20 13:6:26] Disconnected.
+[2021-12-20 13:7:5] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:7:5] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:7:5] C:\Windows\System32\calc.exe
+[2021-12-20 13:7:5] Delay for update is 2
+[2021-12-20 13:7:5] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:7:5] Delay for update is 2
+[2021-12-20 13:7:5] There is no exported data.
+[2021-12-20 13:7:5] Sending data...
+[2021-12-20 13:7:5] File: transfer D:\data.txt successful!
+[2021-12-20 13:7:6] Sending data...
+[2021-12-20 13:7:6] File: transfer D:\log.log successful!
+[2021-12-20 13:7:6] Disconnected.
+[2021-12-20 13:13:6] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:13:6] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:13:6] C:\Windows\System32\calc.exe
+[2021-12-20 13:13:6] Delay for update is 2
+[2021-12-20 13:13:6] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:13:6] Delay for update is 2
+[2021-12-20 13:13:6] There is no exported data.
+[2021-12-20 13:13:7] Sending data...
+[2021-12-20 13:13:7] File: transfer D:\data.txt successful!
+[2021-12-20 13:13:7] Sending data...
+[2021-12-20 13:13:7] File: transfer D:\log.log successful!
+[2021-12-20 13:13:7] Disconnected.
+[2021-12-20 13:15:8] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:15:8] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:15:8] C:\Windows\System32\calc.exe
+[2021-12-20 13:15:8] Delay for update is 2
+[2021-12-20 13:15:8] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:15:8] Delay for update is 2
+[2021-12-20 13:15:8] There is no exported data.
+[2021-12-20 13:15:8] Sending data...
+[2021-12-20 13:15:9] File: transfer D:\data.txt successful!
+[2021-12-20 13:15:9] Sending data...
+[2021-12-20 13:15:9] File: transfer D:\log.log successful!
+[2021-12-20 13:15:9] Disconnected.
+[2021-12-20 13:17:9] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:17:9] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:17:9] C:\Windows\System32\calc.exe
+[2021-12-20 13:17:9] Delay for update is 2
+[2021-12-20 13:17:9] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:17:9] Delay for update is 2
+[2021-12-20 13:17:9] There is no exported data.
+[2021-12-20 13:17:10] Sending data...
+[2021-12-20 13:17:10] File: transfer D:\data.txt successful!
+[2021-12-20 13:17:11] Sending data...
+[2021-12-20 13:17:11] File: transfer D:\log.log successful!
+[2021-12-20 13:17:11] Disconnected.
+[2021-12-20 13:19:11] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:19:11] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:19:11] C:\Windows\System32\calc.exe
+[2021-12-20 13:19:11] Delay for update is 2
+[2021-12-20 13:19:11] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:19:11] Delay for update is 2
+[2021-12-20 13:19:11] There is no exported data.
+[2021-12-20 13:19:11] Sending data...
+[2021-12-20 13:19:11] File: transfer D:\data.txt successful!
+[2021-12-20 13:19:12] Sending data...
+[2021-12-20 13:19:12] File: transfer D:\log.log successful!
+[2021-12-20 13:19:12] Disconnected.
+[2021-12-20 13:21:12] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:21:12] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:21:12] C:\Windows\System32\calc.exe
+[2021-12-20 13:21:12] Delay for update is 2
+[2021-12-20 13:21:12] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:21:12] Delay for update is 2
+[2021-12-20 13:21:12] There is no exported data.
+[2021-12-20 13:21:13] Sending data...
+[2021-12-20 13:21:13] File: transfer D:\data.txt successful!
+[2021-12-20 13:21:13] Sending data...
+[2021-12-20 13:21:13] File: transfer D:\log.log successful!
+[2021-12-20 13:21:13] Disconnected.
+[2021-12-20 13:23:14] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:23:14] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:23:14] C:\Windows\System32\calc.exe
+[2021-12-20 13:23:14] Delay for update is 2
+[2021-12-20 13:23:14] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:23:14] Delay for update is 2
+[2021-12-20 13:23:14] There is no exported data.
+[2021-12-20 13:23:14] Sending data...
+[2021-12-20 13:23:15] File: transfer D:\data.txt successful!
+[2021-12-20 13:23:15] Sending data...
+[2021-12-20 13:23:15] File: transfer D:\log.log successful!
+[2021-12-20 13:23:15] Disconnected.
+[2021-12-20 13:25:15] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:25:15] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:25:15] C:\Windows\System32\calc.exe
+[2021-12-20 13:25:15] Delay for update is 2
+[2021-12-20 13:25:15] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:25:15] Delay for update is 2
+[2021-12-20 13:25:15] There is no exported data.
+[2021-12-20 13:25:16] Sending data...
+[2021-12-20 13:25:16] File: transfer D:\data.txt successful!
+[2021-12-20 13:25:16] Sending data...
+[2021-12-20 13:25:16] File: transfer D:\log.log successful!
+[2021-12-20 13:25:16] Disconnected.
+[2021-12-20 13:27:16] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:27:16] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:27:16] C:\Windows\System32\calc.exe
+[2021-12-20 13:27:16] Delay for update is 2
+[2021-12-20 13:27:16] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:27:16] Delay for update is 2
+[2021-12-20 13:27:16] There is no exported data.
+[2021-12-20 13:27:17] Sending data...
+[2021-12-20 13:27:17] File: transfer D:\data.txt successful!
+[2021-12-20 13:27:18] Sending data...
+[2021-12-20 13:27:18] File: transfer D:\log.log successful!
+[2021-12-20 13:27:18] Disconnected.
+[2021-12-20 13:29:18] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:29:18] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:29:18] C:\Windows\System32\calc.exe
+[2021-12-20 13:29:18] Delay for update is 2
+[2021-12-20 13:29:18] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:29:18] Delay for update is 2
+[2021-12-20 13:29:18] There is no exported data.
+[2021-12-20 13:29:18] Sending data...
+[2021-12-20 13:29:18] File: transfer D:\data.txt successful!
+[2021-12-20 13:29:19] Sending data...
+[2021-12-20 13:29:19] File: transfer D:\log.log successful!
+[2021-12-20 13:29:19] Disconnected.
+[2021-12-20 13:31:19] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:31:19] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:31:19] C:\Windows\System32\calc.exe
+[2021-12-20 13:31:19] Delay for update is 2
+[2021-12-20 13:31:19] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:31:19] Delay for update is 2
+[2021-12-20 13:31:19] There is no exported data.
+[2021-12-20 13:31:19] Sending data...
+[2021-12-20 13:31:19] File: transfer D:\data.txt successful!
+[2021-12-20 13:31:20] Sending data...
+[2021-12-20 13:31:20] File: transfer D:\log.log successful!
+[2021-12-20 13:31:20] Disconnected.
+[2021-12-20 13:33:20] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:33:20] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:33:20] C:\Windows\System32\calc.exe
+[2021-12-20 13:33:20] Delay for update is 2
+[2021-12-20 13:33:20] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:33:20] Delay for update is 2
+[2021-12-20 13:33:20] There is no exported data.
+[2021-12-20 13:33:20] Sending data...
+[2021-12-20 13:33:21] File: transfer D:\data.txt successful!
+[2021-12-20 13:33:21] Sending data...
+[2021-12-20 13:33:21] File: transfer D:\log.log successful!
+[2021-12-20 13:33:21] Disconnected.
+[2021-12-20 13:35:21] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:35:21] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:35:21] C:\Windows\System32\calc.exe
+[2021-12-20 13:35:21] Delay for update is 2
+[2021-12-20 13:35:21] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:35:21] Delay for update is 2
+[2021-12-20 13:35:21] There is no exported data.
+[2021-12-20 13:35:22] Sending data...
+[2021-12-20 13:35:22] File: transfer D:\data.txt successful!
+[2021-12-20 13:35:22] Sending data...
+[2021-12-20 13:35:22] File: transfer D:\log.log successful!
+[2021-12-20 13:35:22] Disconnected.
+[2021-12-20 13:37:22] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:37:22] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:37:22] C:\Windows\System32\calc.exe
+[2021-12-20 13:37:22] Delay for update is 2
+[2021-12-20 13:37:22] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:37:22] Delay for update is 2
+[2021-12-20 13:37:22] There is no exported data.
+[2021-12-20 13:37:23] Sending data...
+[2021-12-20 13:37:23] File: transfer D:\data.txt successful!
+[2021-12-20 13:37:24] Sending data...
+[2021-12-20 13:37:24] File: transfer D:\log.log successful!
+[2021-12-20 13:37:24] Disconnected.
+[2021-12-20 13:39:24] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:39:24] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:39:24] C:\Windows\System32\calc.exe
+[2021-12-20 13:39:24] Delay for update is 2
+[2021-12-20 13:39:24] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:39:24] Delay for update is 2
+[2021-12-20 13:39:24] There is no exported data.
+[2021-12-20 13:39:24] Sending data...
+[2021-12-20 13:39:24] File: transfer D:\data.txt successful!
+[2021-12-20 13:39:25] Sending data...
+[2021-12-20 13:39:25] File: transfer D:\log.log successful!
+[2021-12-20 13:39:25] Disconnected.
+[2021-12-20 13:41:25] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:41:25] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:41:25] C:\Windows\System32\calc.exe
+[2021-12-20 13:41:25] Delay for update is 2
+[2021-12-20 13:41:25] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:41:25] Delay for update is 2
+[2021-12-20 13:41:25] There is no exported data.
+[2021-12-20 13:41:25] Sending data...
+[2021-12-20 13:41:25] File: transfer D:\data.txt successful!
+[2021-12-20 13:41:26] Sending data...
+[2021-12-20 13:41:26] File: transfer D:\log.log successful!
+[2021-12-20 13:41:26] Disconnected.
+[2021-12-20 13:43:26] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:43:26] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:43:26] C:\Windows\System32\calc.exe
+[2021-12-20 13:43:26] Delay for update is 2
+[2021-12-20 13:43:26] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:43:26] Delay for update is 2
+[2021-12-20 13:43:26] There is no exported data.
+[2021-12-20 13:43:26] Sending data...
+[2021-12-20 13:43:27] File: transfer D:\data.txt successful!
+[2021-12-20 13:43:27] Sending data...
+[2021-12-20 13:43:27] File: transfer D:\log.log successful!
+[2021-12-20 13:43:27] Disconnected.
+[2021-12-20 13:45:27] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:45:27] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:45:27] C:\Windows\System32\calc.exe
+[2021-12-20 13:45:27] Delay for update is 2
+[2021-12-20 13:45:27] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:45:27] Delay for update is 2
+[2021-12-20 13:45:27] There is no exported data.
+[2021-12-20 13:45:28] Sending data...
+[2021-12-20 13:45:28] File: transfer D:\data.txt successful!
+[2021-12-20 13:45:28] Sending data...
+[2021-12-20 13:45:28] File: transfer D:\log.log successful!
+[2021-12-20 13:45:28] Disconnected.
+[2021-12-20 13:47:28] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:47:28] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:47:28] C:\Windows\System32\calc.exe
+[2021-12-20 13:47:28] Delay for update is 2
+[2021-12-20 13:47:28] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:47:28] Delay for update is 2
+[2021-12-20 13:47:28] There is no exported data.
+[2021-12-20 13:47:29] Sending data...
+[2021-12-20 13:47:29] File: transfer D:\data.txt successful!
+[2021-12-20 13:47:29] Sending data...
+[2021-12-20 13:47:29] File: transfer D:\log.log successful!
+[2021-12-20 13:47:29] Disconnected.
+[2021-12-20 13:49:29] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:49:29] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:49:29] C:\Windows\System32\calc.exe
+[2021-12-20 13:49:29] Delay for update is 2
+[2021-12-20 13:49:29] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:49:29] Delay for update is 2
+[2021-12-20 13:49:29] There is no exported data.
+[2021-12-20 13:49:30] Sending data...
+[2021-12-20 13:49:30] File: transfer D:\data.txt successful!
+[2021-12-20 13:49:31] Sending data...
+[2021-12-20 13:49:31] File: transfer D:\log.log successful!
+[2021-12-20 13:49:31] Disconnected.
+[2021-12-20 13:51:31] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:51:31] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:51:31] C:\Windows\System32\calc.exe
+[2021-12-20 13:51:31] Delay for update is 2
+[2021-12-20 13:51:31] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:51:31] Delay for update is 2
+[2021-12-20 13:51:31] There is no exported data.
+[2021-12-20 13:51:31] Sending data...
+[2021-12-20 13:51:31] File: transfer D:\data.txt successful!
+[2021-12-20 13:51:32] Sending data...
+[2021-12-20 13:51:32] File: transfer D:\log.log successful!
+[2021-12-20 13:51:32] Disconnected.
+[2021-12-20 13:53:32] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:53:32] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:53:32] C:\Windows\System32\calc.exe
+[2021-12-20 13:53:32] Delay for update is 2
+[2021-12-20 13:53:32] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:53:32] Delay for update is 2
+[2021-12-20 13:53:32] There is no exported data.
+[2021-12-20 13:53:32] Sending data...
+[2021-12-20 13:53:33] File: transfer D:\data.txt successful!
+[2021-12-20 13:53:33] Sending data...
+[2021-12-20 13:53:33] File: transfer D:\log.log successful!
+[2021-12-20 13:53:33] Disconnected.
+[2021-12-20 13:55:33] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:55:33] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:55:33] C:\Windows\System32\calc.exe
+[2021-12-20 13:55:33] Delay for update is 2
+[2021-12-20 13:55:33] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:55:33] Delay for update is 2
+[2021-12-20 13:55:33] There is no exported data.
+[2021-12-20 13:55:34] Sending data...
+[2021-12-20 13:55:34] File: transfer D:\data.txt successful!
+[2021-12-20 13:55:34] Sending data...
+[2021-12-20 13:55:34] File: transfer D:\log.log successful!
+[2021-12-20 13:55:34] Disconnected.
+[2021-12-20 13:57:34] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:57:34] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:57:34] C:\Windows\System32\calc.exe
+[2021-12-20 13:57:34] Delay for update is 2
+[2021-12-20 13:57:34] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:57:34] Delay for update is 2
+[2021-12-20 13:57:34] There is no exported data.
+[2021-12-20 13:57:35] Sending data...
+[2021-12-20 13:57:35] File: transfer D:\data.txt successful!
+[2021-12-20 13:57:36] Sending data...
+[2021-12-20 13:57:36] File: transfer D:\log.log successful!
+[2021-12-20 13:57:36] Disconnected.
+[2021-12-20 13:59:36] Connection with 127.0.0.1 was estabilished
+[2021-12-20 13:59:36] Receive File: D:\config.txt from client successful!
+[2021-12-20 13:59:36] C:\Windows\System32\calc.exe
+[2021-12-20 13:59:36] Delay for update is 2
+[2021-12-20 13:59:36] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 13:59:36] Delay for update is 2
+[2021-12-20 13:59:36] There is no exported data.
+[2021-12-20 13:59:36] Sending data...
+[2021-12-20 13:59:36] File: transfer D:\data.txt successful!
+[2021-12-20 13:59:37] Sending data...
+[2021-12-20 13:59:37] File: transfer D:\log.log successful!
+[2021-12-20 13:59:37] Disconnected.
+[2021-12-20 14:1:37] Connection with 127.0.0.1 was estabilished
+[2021-12-20 14:1:37] Receive File: D:\config.txt from client successful!
+[2021-12-20 14:1:37] C:\Windows\System32\calc.exe
+[2021-12-20 14:1:37] Delay for update is 2
+[2021-12-20 14:1:37] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 14:1:37] Delay for update is 2
+[2021-12-20 14:1:37] There is no exported data.
+[2021-12-20 14:1:37] Sending data...
+[2021-12-20 14:1:37] File: transfer D:\data.txt successful!
+[2021-12-20 14:1:38] Sending data...
+[2021-12-20 14:1:38] File: transfer D:\log.log successful!
+[2021-12-20 14:1:38] Disconnected.
+[2021-12-20 14:3:38] Connection with 127.0.0.1 was estabilished
+[2021-12-20 14:3:38] Receive File: D:\config.txt from client successful!
+[2021-12-20 14:3:38] C:\Windows\System32\calc.exe
+[2021-12-20 14:3:38] Delay for update is 2
+[2021-12-20 14:3:38] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 14:3:38] Delay for update is 2
+[2021-12-20 14:3:38] There is no exported data.
+[2021-12-20 14:3:39] Sending data...
+[2021-12-20 14:3:39] File: transfer D:\data.txt successful!
+[2021-12-20 14:3:39] Sending data...
+[2021-12-20 14:3:39] File: transfer D:\log.log successful!
+[2021-12-20 14:3:39] Disconnected.
+[2021-12-20 14:5:39] Connection with 127.0.0.1 was estabilished
+[2021-12-20 14:5:39] Receive File: D:\config.txt from client successful!
+[2021-12-20 14:5:39] C:\Windows\System32\calc.exe
+[2021-12-20 14:5:39] Delay for update is 2
+[2021-12-20 14:5:39] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 14:5:39] Delay for update is 2
+[2021-12-20 14:5:39] There is no exported data.
+[2021-12-20 14:5:40] Sending data...
+[2021-12-20 14:5:40] File: transfer D:\data.txt successful!
+[2021-12-20 14:5:40] Sending data...
+[2021-12-20 14:5:40] File: transfer D:\log.log successful!
+[2021-12-20 14:5:40] Disconnected.
+[2021-12-20 14:7:40] Connection with 127.0.0.1 was estabilished
+[2021-12-20 14:7:40] Receive File: D:\config.txt from client successful!
+[2021-12-20 14:7:40] C:\Windows\System32\calc.exe
+[2021-12-20 14:7:40] Delay for update is 2
+[2021-12-20 14:7:40] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 14:7:40] Delay for update is 2
+[2021-12-20 14:7:40] There is no exported data.
+[2021-12-20 14:7:41] Sending data...
+[2021-12-20 14:7:41] File: transfer D:\data.txt successful!
+[2021-12-20 14:7:41] Sending data...
+[2021-12-20 14:7:42] File: transfer D:\log.log successful!
+[2021-12-20 14:7:42] Disconnected.
+[2021-12-20 14:9:42] Connection with 127.0.0.1 was estabilished
+[2021-12-20 14:9:42] Receive File: D:\config.txt from client successful!
+[2021-12-20 14:9:42] C:\Windows\System32\calc.exe
+[2021-12-20 14:9:42] Delay for update is 2
+[2021-12-20 14:9:42] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 14:9:42] Delay for update is 2
+[2021-12-20 14:9:42] There is no exported data.
+[2021-12-20 14:9:42] Sending data...
+[2021-12-20 14:9:42] File: transfer D:\data.txt successful!
+[2021-12-20 14:9:43] Sending data...
+[2021-12-20 14:9:43] File: transfer D:\log.log successful!
+[2021-12-20 14:9:43] Disconnected.
+[2021-12-20 14:11:43] Connection with 127.0.0.1 was estabilished
+[2021-12-20 14:11:43] Receive File: D:\config.txt from client successful!
+[2021-12-20 14:11:43] C:\Windows\System32\calc.exe
+[2021-12-20 14:11:43] Delay for update is 2
+[2021-12-20 14:11:43] Trying to open C:\Windows\System32\calc.exe
+[2021-12-20 14:11:43] Delay for update is 2
+[2021-12-20 14:11:43] There is no exported data.
+[2021-12-20 14:11:43] Sending data...
+[2021-12-20 14:11:43] File: transfer D:\data.txt successful!
+[2021-12-20 14:11:44] Sending data...
