@@ -1,5 +1,0 @@
-[2021-12-19 10:38:35] C:\Windows\System32\kernel32.dll
-[2021-12-19 10:38:35] Delay for update is 15
-[2021-12-19 10:38:35] Exit from readconfigfile!
-[2021-12-19 10:38:35] Trying to open C:\Windows\System32\kernel32.dll
-[2021-12-19 10:38:35] Delay for update is 15
